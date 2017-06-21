@@ -7,6 +7,7 @@ public class Login {
 	public static int nivel;
 	public static int cadastro;
 	public static int idEnd;
+	public static int id;
 	
 	public static int getCadastro() {
 		return cadastro;
